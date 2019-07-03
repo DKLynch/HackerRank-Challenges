@@ -1,3 +1,5 @@
+//Problem URL: https://www.hackerrank.com/challenges/cut-the-sticks/problem
+
 static int[] cutTheSticks(int[] arr) {
 	List<int> sticksCut = new List<int>();
 	var sortedSticks = arr.OrderBy(x => x).ToList();

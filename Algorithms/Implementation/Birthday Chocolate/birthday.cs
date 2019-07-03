@@ -1,3 +1,5 @@
+//Problem URL: https://www.hackerrank.com/challenges/the-birthday-bar/problem
+
 static int birthday(List<int> s, int d, int m) {
 	int counter = 0;
 

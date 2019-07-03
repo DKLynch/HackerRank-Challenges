@@ -1,3 +1,5 @@
+//Problem URL: https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
+
 static int designerPdfViewer(int[] h, string word) {
 	int maxHeight = 0;
 

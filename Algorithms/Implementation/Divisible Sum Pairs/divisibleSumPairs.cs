@@ -1,3 +1,5 @@
+//Problem URL: https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
+
 static int divisibleSumPairs(int n, int k, int[] ar) {
 	int counter = 0;
 
