@@ -6,7 +6,7 @@ static int simpleArraySum(int[] ar) {
 
 /*
 static int simpleArraySum(int[] ar) {
-	int sum = 0;
+    int sum = 0;
     foreach(int i in ar){
         sum += i;
     }

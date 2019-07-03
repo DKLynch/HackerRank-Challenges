@@ -9,6 +9,6 @@ static List<int> compareTriplets(List<int> a, List<int> b) {
             sumB += 1;
         else if (a[i] > b[i])
             sumA += 1;
-		}
+        }
     return new List<int> {sumA, sumB};
 }
