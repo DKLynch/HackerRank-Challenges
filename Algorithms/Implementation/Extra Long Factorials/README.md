@@ -1,0 +1,1 @@
+![Problem](Problem/ExtraLongFactorials.png)
