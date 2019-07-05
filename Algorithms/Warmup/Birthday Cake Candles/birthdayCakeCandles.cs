@@ -13,6 +13,5 @@ static int birthdayCakeCandles(int[] ar) {
             counter++;
         }
     }
-
     return counter;
 }
