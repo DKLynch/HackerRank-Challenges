@@ -2,7 +2,7 @@
 
 static int minimumAbsoluteDifference(int[] arr) {
     int min = Int32.MaxValue;
-	Array.Sort(arr);
+    Array.Sort(arr);
 
     for(int i = 0; i < arr.Length - 1; i++){
         min = Math.Min(min, Math.Abs(arr[i] - arr[i + 1])); 
