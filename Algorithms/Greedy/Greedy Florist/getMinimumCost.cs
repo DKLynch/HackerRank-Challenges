@@ -13,8 +13,8 @@ static int getMinimumCost(int k, int[] c) {
        minCost += (flowersBought + 1) * c[i];
        currentPerson--;
 
-	   //Increment the flowers bought multiplier once we've cycled
-	   //through each person once
+       //Increment the flowers bought multiplier once we've cycled
+       //through each person once
        if(currentPerson == 0){
            flowersBought++;
            currentPerson = k;
